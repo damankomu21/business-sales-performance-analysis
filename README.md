@@ -18,17 +18,17 @@ The objective was to convert transactional sales data into meaningful insights t
 
 ## 📈 Key Business Metrics
 
-Year-wise Sales Trend Analysis (2015–2018)
+* Year-wise Sales Trend Analysis (2015–2018)
 
-Category-wise Revenue Distribution
+* Category-wise Revenue Distribution
 
-Regional Performance Breakdown
+* Regional Performance Breakdown
 
-Customer Segment Analysis
+* Customer Segment Analysis
 
-KPI Summary Cards for Quick Monitoring
+* KPI Summary Cards for Quick Monitoring
 
-Product-Level Revenue Insights
+* Product-Level Revenue Insights
 
 ---
 
