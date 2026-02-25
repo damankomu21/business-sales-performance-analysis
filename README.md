@@ -1,162 +1,80 @@
-Business Sales Performance Analysis
-📌 Project Overview
+📊 Sales Performance Dashboard (2015–2018)
+🔎 Project Overview
 
-This is an end-to-end sales performance analysis using structured data modeling, KPI development, and business intelligence techniques.
+This project analyzes sales performance data from 2015 to 2018 to evaluate revenue growth, customer distribution, and product performance.
 
-The objective is to transform raw transactional sales data into actionable business insights through data cleaning, modeling, and interactive dashboard development.
+The objective was to convert transactional sales data into meaningful insights to understand business trends, customer behavior, and regional contribution.
 
-This project simulates a real-world business scenario where management requires performance tracking across regions, products, and time periods.
+🛠 Tools Used
 
-🎯 Business Problem
+Microsoft Excel (Data Cleaning, Pivot Tables, KPI Calculation, Dashboard Design)
 
-The company wants to:
+Basic Data Aggregation & Trend Analysis Techniques
 
-Monitor revenue and profitability trends
+📈 Key Insights
 
-Identify high-performing regions and product categories
+Total Sales Analyzed: ₹22,61,537
 
-Track seasonal demand fluctuations
+Total Unique Orders: 4,922
 
-Detect low-margin or loss-making products
+Total Unique Customers: 793
 
-Understand customer contribution patterns
+Average Sales per Order: ₹459.48
 
-Improve strategic decision-making using data
+Sales show consistent growth trend from 2015 to 2018.
 
-🛠 Tools & Technologies
+Consumer segment contributes the highest share of total revenue.
 
-Microsoft Excel
+West region demonstrates strong overall performance.
 
-Data Cleaning
+Technology products dominate product-level revenue contribution.
 
-Power Query (ETL process)
+📊 Features of Dashboard
 
-Pivot Tables
+Year-wise Sales Trend Analysis (2015–2018)
 
-Advanced Formulas
+Category-wise Revenue Distribution
 
-SQL (MySQL)
+Regional Performance Breakdown
 
-Data querying
+Customer Segment Analysis
 
-Aggregations
+KPI Summary Cards for Quick Monitoring
 
-Joins
+Product-Level Revenue Insights
 
-Grouping & filtering
+📁 Dataset
 
-Business metric calculations
+The dataset contains order-level sales data including:
 
-Power BI
+Order Date
 
-Data Modeling
-
-DAX Measures
-
-Interactive Dashboard
-
-Drill-down reports
-
-Slicers & Filters
-
-🧩 Data Preparation Process (ETL)
-
-Imported raw sales dataset
-
-Cleaned missing and inconsistent values
-
-Standardized date formats
-
-Created calculated columns:
-
-Profit Margin %
-
-Year
-
-Quarter
-
-Month
-
-Built structured data model (Fact & Dimension logic)
-
-📊 Advanced KPIs Developed
-
-💰 Total Revenue
-
-📈 Total Profit
-
-📊 Profit Margin %
-
-📦 Total Quantity Sold
-
-📅 Year-over-Year (YoY) Growth
-
-📉 Month-over-Month (MoM) Growth
-
-🏆 Top 10 Products by Revenue
-
-📍 Region-wise Contribution %
-
-👥 Customer Lifetime Value (Basic Estimation)
-
-🧮 Average Order Value
-
-📈 Dashboard Features
-
-Executive KPI summary section
-
-Dynamic Year/Region/Category filters
-
-Drill-down capability (Year → Quarter → Month)
-
-Region-wise performance comparison
-
-Category-level profitability analysis
-
-Top & Bottom product analysis
-
-Trend analysis with growth indicators
-
-Pareto Analysis (80/20 Revenue Rule)
-
-🔍 Key Business Insights
-
-20% of customers contribute nearly 65% of total revenue.
-
-Technology category generates highest revenue but Furniture shows higher margin stability.
-
-Q4 consistently outperforms other quarters indicating seasonal demand spike.
-
-Certain high-revenue products operate on low profit margins.
-
-West region contributes the largest share of total revenue.
-
-🏗 Data Model Structure
-
-Fact Table: Sales Transactions
-
-Dimension Tables:
-
-Date
-
-Customer
-
-Product
+Customer Segment
 
 Region
 
-This structure improves scalability and aligns with real-world BI architecture.
+Product Category
 
-📌 Business Impact
+Sales Amount
 
-This dashboard enables management to:
+Product Name
 
-Identify growth opportunities
+🎯 Objective
 
-Improve pricing strategy
+To demonstrate practical data analytics skills including:
 
-Optimize product portfolio
+Data Cleaning & Structuring
 
-Allocate resources to high-performing regions
+KPI Development
 
-Reduce dependency on low-margin segments
+Revenue Trend Analysis
+
+Customer & Regional Performance Evaluation
+
+Dashboard Visualization in Excel
+
+📷 Dashboard Preview
+
+🚀 Author
+
+Aspiring Data Analyst skilled in Excel, SQL (MySQL), Python (Basics), and Power BI, focused on transforming raw business data into actionable insights.
