@@ -1,35 +1,22 @@
-📊 Sales Performance Dashboard (2015–2018)
-🔎 Project Overview
+# 📊 Business Sales Performance Analysis
+
+## 🔎 Project Overview
 
 This project analyzes sales performance data from 2015 to 2018 to evaluate revenue growth, customer distribution, and product performance.
 
 The objective was to convert transactional sales data into meaningful insights to understand business trends, customer behavior, and regional contribution.
 
-🛠 Tools Used
+---
 
-Microsoft Excel (Data Cleaning, Pivot Tables, KPI Calculation, Dashboard Design)
+## 🛠 Tools Used
 
-Basic Data Aggregation & Trend Analysis Techniques
+* Microsoft Excel (Data Cleaning, Pivot Tables, KPI Calculation, Dashboard Design)
+* Basic Data Aggregation & Trend Analysis Techniques
 
-📈 Key Insights
 
-Total Sales Analyzed: ₹22,61,537
+---
 
-Total Unique Orders: 4,922
-
-Total Unique Customers: 793
-
-Average Sales per Order: ₹459.48
-
-Sales show consistent growth trend from 2015 to 2018.
-
-Consumer segment contributes the highest share of total revenue.
-
-West region demonstrates strong overall performance.
-
-Technology products dominate product-level revenue contribution.
-
-📊 Features of Dashboard
+## 📈 Key Business Metrics
 
 Year-wise Sales Trend Analysis (2015–2018)
 
@@ -43,38 +30,48 @@ KPI Summary Cards for Quick Monitoring
 
 Product-Level Revenue Insights
 
-📁 Dataset
+---
 
-The dataset contains order-level sales data including:
+## 📊 Analysis Performed
 
-Order Date
+* Product-level revenue comparison to identify top-selling items.
+* Category-wise performance showing Laptops as primary revenue driver.
+* State-wise sales analysis highlighting Maharashtra as the leading market.
+* Quarterly trend analysis to monitor revenue fluctuations across 2024.
+* KPI tracking for operational efficiency and loss monitoring.
 
-Customer Segment
+---
 
-Region
+## 🎯 Objective
 
-Product Category
+* Data Cleaning & Structuring
 
-Sales Amount
+* KPI Development
 
-Product Name
+* Revenue Trend Analysis
 
-🎯 Objective
+* Customer & Regional Performance Evaluation
 
-To demonstrate practical data analytics skills including:
+* Dashboard Visualization in Excel
 
-Data Cleaning & Structuring
+---
 
-KPI Development
+## 📷 Dashboard Preview
 
-Revenue Trend Analysis
+(See Images/dashboard_preview.png)
 
-Customer & Regional Performance Evaluation
+---
 
-Dashboard Visualization in Excel
+## 🚀 Outcome
 
-📷 Dashboard Preview
+This dashboard helps stakeholders:
 
-🚀 Author
+* Identified top-selling products and heigh-revenue regions for strategic focus.
+* Quantified the financial impact of order cancellations to help reduce losses.
+* Highlighted trends in monthly and quaterly sales to support forecasting.
 
-Aspiring Data Analyst skilled in Excel, SQL (MySQL), Python (Basics), and Power BI, focused on transforming raw business data into actionable insights.
+---
+
+## 👤 Author
+
+Aspiring Data Analyst skilled in Excel, SQL (Basic), Python (Basic), and Power BI.
