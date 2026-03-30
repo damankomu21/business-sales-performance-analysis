@@ -57,13 +57,13 @@ Developed an interactive Excel dashboard to analyze multi-year sales data (2015â
 
 
 
-### Executive Dashboard
+### Sales Overview
 ![Sales Overview](Images/sales-overview.png)
 
-### Regional & Product Deep-Dive
+### Regional Analysis
 ![Regional Analysis](Images/sales-regional-analysis.png)
 
-### Comprehensive Report
+### Full Report
 ![Full Report](Images/sales-full-report.png)
 ---
 
