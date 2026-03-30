@@ -92,6 +92,6 @@ Aspiring Data Analyst | Excel | Power BI | SQL (Basic) | Python (Basic)
 
 I am always open to discussing data projects or potential opportunities!
 
-* **LinkedIn:** [Daman Komu](www.linkedin.com/in/damankomu)
+* **LinkedIn:** [Daman Komu]([www.linkedin.com/in/damankomu](https://www.linkedin.com/in/daman-komu-935665248))
 * **GitHub:** [Damankomu21](https://github.com/damankomu21))
 * **Email:** [Damankomu21@gmail.com](mailto:Damankomu21@gmail.com)
