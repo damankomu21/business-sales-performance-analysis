@@ -56,7 +56,7 @@ Developed an interactive Excel dashboard to analyze multi-year sales data (2015â
 
 
 ### 1. Dashboard Overview
-![Sales Overview](screenshot/business-sales-performance-dashboard-overview.png.png)
+![Sales Overview](Screenshot/business-sales-performance-dashboard-overview.png.png)
 
 ### 2. Full Performance View
 ![Full Dashboard](screenshot/business-sales-performance-full-dashboard.png.png)
