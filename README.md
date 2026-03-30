@@ -86,3 +86,12 @@ This dashboard provides a comprehensive view of business performance, enabling s
 
 Daman Komu
 Aspiring Data Analyst | Excel | Power BI | SQL (Basic) | Python (Basic)
+
+
+## 📬 Contact & Connect
+
+I am always open to discussing data projects or potential opportunities!
+
+* **LinkedIn:** [Daman Komu](damankomu)
+* **GitHub:** [Your Username](https://github.com/yourusername)
+* **Email:** [Damankomu21@gmail.com](mailto:Damankomu21@gmail.com)
