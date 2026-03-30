@@ -55,14 +55,15 @@ Developed an interactive Excel dashboard to analyze multi-year sales data (2015â
 ## ðŸ“· Dashboard Preview
 
 
-### 1. Dashboard Overview
-[![Sales Overview](Screenshot/business-sales-performance-dashboard-overview.png.png)]
 
-### 2. Full Performance View
-![Full Dashboard](screenshot/business-sales-performance-full-dashboard.png.png)
+### Dashboard Overview
+![Sales Overview](images/business-sales-performance-dashboard-overview.png.png)
 
-### 3. Regional & Product Analysis
-![Analysis](screenshot/business-sales-performance-regional-and-product-analysis.png.png)
+### Full Performance Dashboard
+![Full Dashboard](images/business-sales-performance-full-dashboard.png.png)
+
+### Regional & Product Analysis
+![Analysis](images/business-sales-performance-regional-and-product-analysis.png.png)
 
 ---
 
